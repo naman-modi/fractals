@@ -28,5 +28,6 @@ def main():
 	size = int(input("Enter size: "))
 	iterations = int(input("Enter number of iterations: "))
 	carpet(size, iterations)
+	input()
 if __name__ == "__main__":
 	main()
